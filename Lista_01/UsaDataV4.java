@@ -1,39 +1,27 @@
+
 import PacoteData.MinhaData;
+
 
 public class UsaDataV4 {
     public static void main(String[] args) {
-        MinhaData d1 = new MinhaData();
-        d1.printData();
-        boolean ok = d1.iniData((byte) 1, (byte) 1, (short) 2021);
-        if (ok == true)
-            d1.printData();
-        else
-            System.out.println("Data inválida!");
+        MinhaData dataInicial = new MinhaData((byte) 30, (byte) 8, (short) 2002);
 
-        byte d = 14;
-        byte m = 7;
-        if (MinhaData.dataValida(d, m, (short) 2021)) {
-            System.out.println("Data válida!");
-            d1.setDia(d);
-            d1.setMes(m);
-        } else {
-            System.out.println("Data inválida!");
+        dataInicial.printData();
+        System.out.println("Data inicial: " + dataInicial);
+
+        int quantidade = 5;
+        int paso = 2;
+
+        MinhaData[] intervalo = dataInicial.intervaloDatas(dataInicial, quantidade, paso);
+
+        System.out.println("Intervalo datas:");
+        for(MinhaData data : intervalo){
+            System.out.println(data);
         }
-        
-        d1.printData();
 
-        MinhaData d2 = new MinhaData(d1);
-        d2.printData();
-        MinhaData d3 = new MinhaData4(d1, 45);
-        d3.printData();
-        MinhaData d4 = new MinhaData();
-        d4.printData();
+        MinhaData dataComp = new MinhaData((byte) 12, (byte) 3, (short) 2002);
 
-        if (d1 == d2)
-            System.out.println("d1 == d2");
-        else
-            System.out.println("d1 != d2");
-
-
+        System.out.println("A Data " + dataInicial +" é anterior a data " + dataComp + "? " + dataInicial.anteriorA(dataComp));
+        System.out.println("A Data " + dataInicial +" é igual a data " + dataComp + "? " + dataInicial.igualA(dataComp));
     }
 }
