@@ -89,7 +89,7 @@ public final class MinhaData {
 
     @SuppressWarnings("unused")
     private boolean dataValida(){
-        return dataValida(this.dia,this.mes, this.ano);
+        return dataValida(this.dia, this.mes, this.ano);
     }
 
     public void printData() {
@@ -101,7 +101,7 @@ public final class MinhaData {
     }
 
     public void setDia(byte dia){
-        if(dataValida(dia, this.mes, this.ano)){
+        if (dataValida(dia, this.mes, this.ano)){
             this.dia = dia;
         }
     }
