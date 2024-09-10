@@ -6,7 +6,7 @@ public class Agenda {
 
         System.out.println(contato1);
 
-        Contato contato2 = new Contato("Galds", "joao@example", "73988750872", false);
+        Contato contato2 = new Contato("Galds", "galds@example", "73988750333", false);
 
         System.out.println("\n"+contato2);
     }
