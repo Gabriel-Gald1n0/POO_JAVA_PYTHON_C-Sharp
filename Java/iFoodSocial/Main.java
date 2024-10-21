@@ -4,13 +4,16 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        @SuppressWarnings("Convert2Diamond")
         ArrayList<Categoria> categorias = new ArrayList<Categoria>();
+        @SuppressWarnings("Convert2Diamond")
         ArrayList<Produto> produtos = new ArrayList<Produto>();
 
-        int opcao = 0;
+        int opcao;
         int CodigoCategoria = 0;
         do { 
             System.out.println("\n--- Menu de Operações ---");

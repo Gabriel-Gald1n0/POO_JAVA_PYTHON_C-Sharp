@@ -9,7 +9,7 @@ public class Entrega {
     private int y;
     private int destinoX; 
     private int destinoY;
-    private List<String> caminho;
+    private final List<String> caminho;
 
     public Entrega(){
         this.nome = "";
