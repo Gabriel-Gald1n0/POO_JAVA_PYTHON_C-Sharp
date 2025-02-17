@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\bin\Debug\net9.0\05Encapsulamento.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\bin\Debug\net9.0\05Encapsulamento.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\bin\Debug\net9.0\05Encapsulamento.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\bin\Debug\net9.0\05Encapsulamento.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\bin\Debug\net9.0\05Encapsulamento.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\refint\05Encapsulamento.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\05Encapsulamento.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\05Encapsulamento\obj\Debug\net9.0\ref\05Encapsulamento.dll

@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\bin\Debug\net9.0\07Get&Set.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\bin\Debug\net9.0\07Get&Set.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\bin\Debug\net9.0\07Get&Set.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\bin\Debug\net9.0\07Get&Set.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\bin\Debug\net9.0\07Get&Set.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\refint\07Get&Set.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\07Get&Set.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\07Get&Set\obj\Debug\net9.0\ref\07Get&Set.dll

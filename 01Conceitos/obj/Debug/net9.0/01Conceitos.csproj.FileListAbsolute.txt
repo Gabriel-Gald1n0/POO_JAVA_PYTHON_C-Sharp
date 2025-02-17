@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\bin\Debug\net9.0\01Conceitos.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\bin\Debug\net9.0\01Conceitos.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\bin\Debug\net9.0\01Conceitos.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\bin\Debug\net9.0\01Conceitos.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\bin\Debug\net9.0\01Conceitos.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\refint\01Conceitos.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\01Conceitos.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\01Conceitos\obj\Debug\net9.0\ref\01Conceitos.dll

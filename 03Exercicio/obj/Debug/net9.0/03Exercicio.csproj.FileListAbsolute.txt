@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\bin\Debug\net9.0\03Exercicio.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\bin\Debug\net9.0\03Exercicio.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\bin\Debug\net9.0\03Exercicio.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\bin\Debug\net9.0\03Exercicio.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\bin\Debug\net9.0\03Exercicio.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\refint\03Exercicio.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\03Exercicio.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\03Exercicio\obj\Debug\net9.0\ref\03Exercicio.dll

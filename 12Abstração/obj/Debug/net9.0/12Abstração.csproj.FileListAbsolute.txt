@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\bin\Debug\net9.0\12Abstração.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\bin\Debug\net9.0\12Abstração.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\bin\Debug\net9.0\12Abstração.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\bin\Debug\net9.0\12Abstração.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\bin\Debug\net9.0\12Abstração.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\refint\12Abstração.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\12Abstração.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\12Abstração\obj\Debug\net9.0\ref\12Abstração.dll

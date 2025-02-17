@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\bin\Debug\net9.0\13Interface.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\bin\Debug\net9.0\13Interface.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\bin\Debug\net9.0\13Interface.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\bin\Debug\net9.0\13Interface.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\bin\Debug\net9.0\13Interface.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\refint\13Interface.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\13Interface.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\13Interface\obj\Debug\net9.0\ref\13Interface.dll

@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\bin\Debug\net9.0\Tratamento de Exceções em C#.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\bin\Debug\net9.0\Tratamento de Exceções em C#.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\bin\Debug\net9.0\Tratamento de Exceções em C#.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\bin\Debug\net9.0\Tratamento de Exceções em C#.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\bin\Debug\net9.0\Tratamento de Exceções em C#.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\refint\Tratamento de Exceções em C#.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\Tratamento de Exceções em C#.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\Tratamento de Exceções em C#\obj\Debug\net9.0\ref\Tratamento de Exceções em C#.dll

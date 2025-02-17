@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\bin\Debug\net9.0\09Herança.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\bin\Debug\net9.0\09Herança.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\bin\Debug\net9.0\09Herança.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\bin\Debug\net9.0\09Herança.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\bin\Debug\net9.0\09Herança.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\refint\09Herança.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\09Herança.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\09Herança\obj\Debug\net9.0\ref\09Herança.dll

@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\bin\Debug\net9.0\11Estatico.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\bin\Debug\net9.0\11Estatico.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\bin\Debug\net9.0\11Estatico.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\bin\Debug\net9.0\11Estatico.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\bin\Debug\net9.0\11Estatico.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\refint\11Estatico.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\11Estatico.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\11Estatico\obj\Debug\net9.0\ref\11Estatico.dll

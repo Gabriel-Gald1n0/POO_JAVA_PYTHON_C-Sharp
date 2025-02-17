@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\bin\Debug\net9.0\08This.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\bin\Debug\net9.0\08This.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\bin\Debug\net9.0\08This.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\bin\Debug\net9.0\08This.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\bin\Debug\net9.0\08This.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\refint\08This.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\08This.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\08This\obj\Debug\net9.0\ref\08This.dll

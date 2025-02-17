@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\bin\Debug\net9.0\10Polimorfismo.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\bin\Debug\net9.0\10Polimorfismo.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\bin\Debug\net9.0\10Polimorfismo.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\bin\Debug\net9.0\10Polimorfismo.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\bin\Debug\net9.0\10Polimorfismo.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\refint\10Polimorfismo.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\10Polimorfismo.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\10Polimorfismo\obj\Debug\net9.0\ref\10Polimorfismo.dll

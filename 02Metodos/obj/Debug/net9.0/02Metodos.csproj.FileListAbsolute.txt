@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\bin\Debug\net9.0\02Metodos.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\bin\Debug\net9.0\02Metodos.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\bin\Debug\net9.0\02Metodos.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\bin\Debug\net9.0\02Metodos.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\bin\Debug\net9.0\02Metodos.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\refint\02Metodos.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\02Metodos.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\02Metodos\obj\Debug\net9.0\ref\02Metodos.dll

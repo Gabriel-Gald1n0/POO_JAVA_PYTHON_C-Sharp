@@ -1,0 +1,15 @@
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.AssemblyInfoInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.AssemblyInfo.cs
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.csproj.CoreCompileInputs.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.sourcelink.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\bin\Debug\net9.0\04Acesso.exe
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\bin\Debug\net9.0\04Acesso.deps.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\bin\Debug\net9.0\04Acesso.runtimeconfig.json
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\bin\Debug\net9.0\04Acesso.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\bin\Debug\net9.0\04Acesso.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\refint\04Acesso.dll
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.pdb
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\04Acesso.genruntimeconfig.cache
+C:\CIC\LP III\Java\LPIII_JAVA-PYTHON\C#\04Acesso\obj\Debug\net9.0\ref\04Acesso.dll
